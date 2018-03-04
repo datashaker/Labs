@@ -1,2 +1,2 @@
-# Labs
+# Courses
 Programming assignments
