@@ -9,10 +9,8 @@ Given data:
   
 Find: 
 - Target variable dependency structure  
-![f1]  
-Chebyshev,Legendre,Hermite and Laguerre polynomials with different were used for approximation.  
+![f1]
 
-Conjugate gradient method for solving inconsistent equations system.
-
-
+Chebyshev,Legendre,Hermite and Laguerre polynomials with different were used for approximation.<br />
+Conjugate gradient method for solving inconsistent equations system.  
 [f1]: http://chart.apis.google.com/chart?cht=tx&chl=\phi\_{i}(X1,X2,X3)
