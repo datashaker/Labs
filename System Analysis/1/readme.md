@@ -8,7 +8,8 @@ Given data:
 - Quantity and weights of target functions
   
 Find: 
-- Target variable dependency structure $$ \phi\_{i}(X1,X2,X3) $$
+- Target variable dependency structure 
+http://chart.apis.google.com/chart?cht=tx&chl=\phi\_{i}(X1,X2,X3)
 
 Chebyshev,Legendre,Hermite and Laguerre polynomials with different were used for approximation
 Conjugate gradient method for solving inconsistent equations system.
