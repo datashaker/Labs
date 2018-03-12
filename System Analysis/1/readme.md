@@ -8,9 +8,9 @@ Given data:
 - Quantity and weights of target functions
   
 Find: 
-- Target variable dependency structure 
+- Target variable dependency structure\\*
 ![f1] 
-Chebyshev,Legendre,Hermite and Laguerre polynomials with different were used for approximation
+Chebyshev,Legendre,Hermite and Laguerre polynomials with different were used for approximation.\\*
 Conjugate gradient method for solving inconsistent equations system.
 
 
