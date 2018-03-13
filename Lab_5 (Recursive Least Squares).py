@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[2]:
-
-
 #coding=utf-8
 import numpy as np
 import matplotlib.pyplot as plt
